@@ -11,3 +11,5 @@ Bundle analyzer for JS (npm install -D webpack-bundle-analyzer): https://www.npm
 file-loader (for images): (npm install -D file-loader) : https://v4.webpack.js.org/loaders/file-loader/
 
 image optimizer loader (to reduce size) (npm install image-webpack-loader) 
+
+To use localhost for a client application without writing code for an HTTPS-enabled Express.js server: webpack-dev-server: (npm install webpack-dev-server -D)
