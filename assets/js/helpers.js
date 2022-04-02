@@ -19,4 +19,5 @@ function createLoremIpsum(numWords = 50) {
   module.exports = {
     dateConverter,
     createLoremIpsum
-  }
+  };
+ 
