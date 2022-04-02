@@ -13,3 +13,5 @@ file-loader (for images): (npm install -D file-loader) : https://v4.webpack.js.o
 image optimizer loader (to reduce size) (npm install image-webpack-loader) 
 
 To use localhost for a client application without writing code for an HTTPS-enabled Express.js server: webpack-dev-server: (npm install webpack-dev-server -D)
+
+webpack plugin for manifest: webpack-pwa-manifest (npm install -D webpack-pwa-manifest)
